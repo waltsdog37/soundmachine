@@ -1,0 +1,31 @@
+html {
+    background: linear-gradient(to bottom, #354f52, black);
+    height: 100%;
+}
+
+h1 {
+    color: #cad2c5;
+}
+
+button {
+
+    color: #cad2c5;
+    box-shadow: 7px 9px 27px -7px #000000;
+    background-color: #52796f;
+    border-radius:42px;
+    border:7px solid #2f3e46;
+    display:inline-block;
+    cursor:pointer;
+    font-family:Arial;
+    font-size:20px;
+    font-weight:bold;
+    padding:13px 32px;
+    text-decoration:none;
+    outline: none;
+}
+
+button:hover {
+    background-color: #6eaa9b;
+    color: #535850;
+}
+
